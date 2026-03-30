@@ -1,1 +1,1 @@
-worker: python phase1_bot.py
+worker: python Phase1-bot.py
