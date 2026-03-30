@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ── CONFIG ─────────────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get(“BOT_TOKEN”)
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 DEFAULT_ACCOUNT = 10000
 EST = pytz.timezone(“America/New_York”)
 
