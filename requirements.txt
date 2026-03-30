@@ -1,5 +1,5 @@
-python-telegram-bot==20.7
-yfinance==0.2.36
-pandas==2.0.3
-numpy==1.24.4
+python-telegram-bot==21.3
+yfinance==0.2.40
+pandas==2.2.2
+numpy==2.0.0
 pytz==2024.1
